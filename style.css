@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
+.stopwatch p{
+    font-size: 6rem;
+}
+.btn{
+    font-size: 2rem;
+    margin: 2rem;
+    padding: 15px;
+    border-radius: 6px;
+transition: all 0.3s;
+}
+.btn:hover{
+    background-color: crimson;
+}
+
+button:hover {
+    background-color: crimson;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    color: crimson;
+    font-size: 1.2rem;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footerSpan {
+    color: white;
+    font-size: 2rem;
+}
