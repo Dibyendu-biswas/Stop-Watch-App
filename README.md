@@ -1,4 +1,4 @@
-<h1>Project - Vanilla-JavaScript-Palindrome-Project</h1>
+<h1>Project - Vanilla-JavaScript-lock-Project</h1>
 <img src="img.png"/>
 
 <h2>Project Details :</h2>
